@@ -21,7 +21,7 @@ LOCAL_SRC_FILES := $(call all-subdir-java-files)
 
 LOCAL_MODULE_TAGS := optional
 
-LOCAL_PACKAGE_NAME := crDroidWallpapers
+LOCAL_PACKAGE_NAME := TUBwallpapers
 
 LOCAL_RESOURCE_DIR := \
     $(LOCAL_PATH)/res \
