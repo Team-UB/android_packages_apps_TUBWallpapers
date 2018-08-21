@@ -27,6 +27,8 @@ LOCAL_RESOURCE_DIR := \
     $(LOCAL_PATH)/res \
     $(LOCAL_PATH)/wallpaper-res
 
+LOCAL_PRIVATE_PLATFORM_APIS := true
+
 LOCAL_AAPT_FLAGS := --auto-add-overlay
 
 include $(BUILD_PACKAGE)
