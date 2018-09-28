@@ -16,12 +16,14 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string-array name="wallpapers" translatable="false">
-		<item>teamub</item>
+		<item>teamub2</item>
 		<item>teamub1</item>
+		<item>teamub0</item>
     </string-array>
 
     <string-array name="info" translatable="false">
-		<item>A Little Drop Of Team (UB) - Rob Live</item>
-		<item>Natural Energy Of Team (UB) - Rob Live</item>
+		<item>Bit of Dark Team (UB)</item>
+		<item>Natural Energy Of Team (UB)</item>
+		<item>A Little Drop Of Team (UB)</item>	
 	</string-array>
 </resources>
